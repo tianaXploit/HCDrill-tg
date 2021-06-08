@@ -1,8 +1,8 @@
 {
 	"botToken": "1866955615:AAEiBH6J8DYHVj8qw25v8mNu2oAzeNFbqgs",
 	"storagePath": "storage",
-	"maxFileSize": 5048578,
-	"loopRefresh": 50000,
+	"maxFileSize": 1048578,
+	"loopRefresh": 5000,
 	"keyFile": "./cfg/keyFile.json",
 	"validExtensions": [
 		".ePro",
@@ -22,12 +22,13 @@
 		".asht",
 		".tls",
 		".ehi",
-		".ehil"
+		".ehil",
+		".npv2"
 	],
 	"stats": {
-		"totalFiles": 53,
-		"decryptedFiles": 68,
-		"failedFiles": 19
+		"totalFiles": 122,
+		"decryptedFiles": 50,
+		"failedFiles": 22
 	},
 	"language": "english",
 	"layout": "default"
