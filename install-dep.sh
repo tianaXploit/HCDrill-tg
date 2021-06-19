@@ -4,4 +4,3 @@ sleep 5
 npm install node-telegram-bot-api
 npm update --save
 node HCDrill.js -bt 1884439266:AAEvRon1PiWCK0cagWKkFq89AZzaUYtsP8c -d storage -c
-exit
