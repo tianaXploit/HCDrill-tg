@@ -1,2 +1,2 @@
-FROM dasunpamod/HCDrill-tg
+FROM tianaXploit/HCDrill-tg
 RUN chmod +x /install-dep.sh
