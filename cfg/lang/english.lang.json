@@ -1,7 +1,7 @@
 {
     "invalidFile": "Inexistent file path/name, aborting...",
     "heavyFile": "The file is too heavy!",
-    "invalidExtension": "[FILE NOT SUPPORTED!]",
+    "invalidExtension": "[FILE NOT SUPPORT!]",
     "decryptionFailed": "GAGAL!! KIRIM FILE LAIN",
     "largeContentWarning": "The decrypted content is too large to be sent on Telegram. Instead we sent you a text file with the decrypted data.",
     "statsMessage_recvfiles":"[TOTAL RECEIVED FILE:]",
